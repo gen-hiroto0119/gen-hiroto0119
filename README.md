@@ -1,7 +1,7 @@
 # Hi there 👋
 
 学生エンジニアです。  
-Go / Typescirpt / AI Agents を中心に、AIネイティブなプロダクト開発に興味があります。
+Go / React を中心に、AIネイティブなプロダクト開発に興味があります。
 
 ## Skills
 
