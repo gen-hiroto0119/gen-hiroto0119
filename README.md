@@ -5,4 +5,4 @@ Go / Typescirpt / AI Agents を中心に、AIネイティブなプロダクト�
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,tailwind,postgres,gcp,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react,tailwind,postgres,gcp,vscode&theme=dark)](https://skillicons.dev)
