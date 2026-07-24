@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hiroto Furugen
 
 学生エンジニアです。  
 Go / React を中心に、AIネイティブなプロダクト開発に興味があります。
