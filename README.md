@@ -5,4 +5,4 @@ Go / React を中心に、AIネイティブなプロダクト開発に興味が�
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,react,tailwind,next.js,postgres,gcp,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,react,tailwind,nextjs,postgres,gcp,&theme=dark)](https://skillicons.dev)
