@@ -8,4 +8,4 @@ Co-founder & Tech-Lead at Hyphen-technologies
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,ts,react,tailwind,nextjs,postgres,gcp,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,rust,postgres,gcp,&theme=dark)](https://skillicons.dev)
